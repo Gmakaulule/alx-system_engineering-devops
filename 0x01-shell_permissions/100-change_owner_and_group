@@ -1,2 +1,2 @@
 #!/bin/bash
-$(chown -f vincent /0x01-shell_permissions) $(chgrp -f staff /0x01-shell_permissions)
+chown vincet staff *
